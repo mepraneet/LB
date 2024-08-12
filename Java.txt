@@ -4,3 +4,5 @@ Branches:
 3.LB_Java
 
 LB : Logic Bulding
+
+NOTE: Problem statement is in inside file.
